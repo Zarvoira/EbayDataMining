@@ -46,7 +46,7 @@ itemDetails=[]
 ## STEP 2
 ## DATA MINING
 
-ebayapi = 'BanarAgu-DataScie-PRD-373673643-f5d451ec'
+ebayapi = 'enter your key here'
 api = finding(appid = ebayapi, siteid="EBAY-IE", config_file=None) # change country with "siteid="
 
 
